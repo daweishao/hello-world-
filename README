@@ -12,8 +12,11 @@ hui yi zhen shi you dian nan.   //20220319
 
 
 --------------------Visual Studio Code 连接到 Github 步骤
-(1)在Github创建一个repository   (权限可以是private)          https://github.com/daweishao/python_book_2
-(2)克隆存储库 :  打开命令面板 【查看>命令面板 或 Ctrl+Shift+P】 输入 gitcl  选择  Git:Clone  输入(1)中地址   选择本地文件夹  C:\Users\xu\Documents\dev
+(1)在Github创建一个repository   (权限可以是private)  ；或者fork一个他人的repo       
+        https://github.com/daweishao/python_book_2
+        https://github.com/daweishao/introduction_to_ml_with_python
+(2)克隆存储库 :  打开命令面板 【查看>命令面板 或 Ctrl+Shift+P】 输入 gitcl  选择  Git:Clone  输入(1)中地址   
+        选择本地文件夹  C:\Users\xu\Documents\dev    / onedrive地址 ： C:\Users\isxu\OneDrive\DEV  (注意每台机器的用户名不一致，可以手动选到DEV文件夹)
 (3)本地新建或者编辑文件，保存
 (4)源代码管理一栏中 点击新增或者变更文件上的图标 + 将文件暂存  
 (5)再点击工程名上的 ✔ 号 提交  在弹出对话框中填写变更日志 回车 
